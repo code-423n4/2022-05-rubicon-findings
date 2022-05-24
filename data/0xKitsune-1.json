@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "0xKitsune",
+  "address": "0x08f613Db560a38c330414062e1Aac22e5f80876F",
+  "risk": "2",
+  "title": "setBathHouseAdmin() could accidentally set address(0) as the new admin.",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/1"
+}
