@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "0xNoah",
+  "address": "0x5aFf8D2e08af57377dC4C9f7AaBD27c746fAa02F",
+  "risk": "3",
+  "title": "BathToken will never distribute bonus token rewards because rewardsVestingWallet is never initialized",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/19"
+}
