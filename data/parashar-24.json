@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "parashar",
+  "address": "0x26BC5Cf2269cAc024B106856aD37a1439CaDd731",
+  "risk": "2",
+  "title": "BathPair initialization can be front run by malicious actor",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/24"
+}
