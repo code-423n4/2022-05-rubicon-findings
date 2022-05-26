@@ -1,9 +1,0 @@
-{
-  "contest": 129,
-  "handle": "BurgerTime",
-  "address": "0x242abfb687141b75e4d7a271b839b2ced04bbb5d",
-  "risk": "G",
-  "title": "Gas Optimizations",
-  "issueId": 93,
-  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/93"
-}
