@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "SmartSek",
+  "address": "0x0058dd50c91d60F0A973fE15Fb40e4430F4DAA08",
+  "risk": "3",
+  "title": "First depositor can break minting of shares",
+  "issueId": 138,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/138"
+}
