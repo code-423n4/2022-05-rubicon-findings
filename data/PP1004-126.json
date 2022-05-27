@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "PP1004",
+  "address": "0x09e010BBF41ac73a59668754B263F83F4A49c06e",
+  "risk": "2",
+  "title": "Cannot deposit to BathToken if token is Deflationary Token (BathHouse.sol)",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/126"
+}
