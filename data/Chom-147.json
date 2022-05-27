@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "Missing can_offer modifier",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/147"
+}
