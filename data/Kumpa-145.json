@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "Kumpa",
+  "address": "0x9813Bb4f6AC2993d67D293ce5eC915661Eb539D2",
+  "risk": "2",
+  "title": "Reentrancy on strategisBootyClaim()",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/145"
+}
