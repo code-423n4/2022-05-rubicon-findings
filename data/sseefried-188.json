@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "sseefried",
+  "address": "0xDb0940fDb54bDE3c5826480c5E571A05D1f740Ee",
+  "risk": "2",
+  "title": "`BathToken.setFeeBPS` can be used set fee rate to any value including 100%",
+  "issueId": 188,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/188"
+}
