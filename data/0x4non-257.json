@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "0x4non",
+  "address": "0x38c40EAd3D0Fe7959eb9DFE8337B3c4929884d2c",
+  "risk": "3",
+  "title": "Reentrancy issues on `buyAllAmountWithETH`",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/257"
+}
