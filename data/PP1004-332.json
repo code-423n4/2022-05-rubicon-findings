@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "PP1004",
+  "address": "0x09e010BBF41ac73a59668754B263F83F4A49c06e",
+  "risk": "3",
+  "title": "Wrong formula to calculate new `t_pay_amt` in `_matcho` function (RubiconMarket.sol)",
+  "issueId": 332,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/332"
+}
