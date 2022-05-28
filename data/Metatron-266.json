@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "Metatron",
+  "address": "0xe75781091428a2423367C704d2890a47c52Fe1ce",
+  "risk": "3",
+  "title": "Core functionality not re-entrance safe - can result in stolen tokens or compromise the project usability.",
+  "issueId": 266,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/266"
+}
