@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "ACai",
+  "address": "0xa8881ede6ae1404e62f20bb4aa89e5b1a7e1efd8",
+  "risk": "2",
+  "title": "Lack of checks on expectedMarketFeeBPS.",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/240"
+}
