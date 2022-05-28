@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "2",
+  "title": "Owner can steal or DoS all withdrawals by setting high `feeBPS`",
+  "issueId": 382,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/382"
+}
