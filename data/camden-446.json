@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "2",
+  "title": "Calling mint in BathToken on deflationary tokens will never work",
+  "issueId": 446,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/446"
+}
