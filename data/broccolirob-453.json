@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "broccolirob",
+  "address": "0x5233af283e7c359a1011dc0ff480298e90c8cfd6",
+  "risk": "2",
+  "title": "`BathBuddy.release` does not check the return value of `transfer`",
+  "issueId": 453,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/453"
+}
