@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "In strategistBootyClaim() of BathPair there is no check that asset!=quote and strategist can claim one asset rewards two times",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/238"
+}
