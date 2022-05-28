@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "0xsomeone",
+  "address": "0x25c84Be73af28d65E71F092344Efd92B2c79e3f9",
+  "risk": "2",
+  "title": "Multiple Unsafe Arithmetic Operations",
+  "issueId": 443,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/443"
+}
