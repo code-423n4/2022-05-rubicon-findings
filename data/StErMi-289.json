@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "StErMi",
+  "address": "0x2272a321f0151189d66881f5C0971899897eF71B",
+  "risk": "3",
+  "title": "BathHouse admin can set `feeBPS` to max stealing user funds in BathToken `_withdraw`",
+  "issueId": 289,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/289"
+}
