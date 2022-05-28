@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "PP1004",
+  "address": "0x09e010BBF41ac73a59668754B263F83F4A49c06e",
+  "risk": "2",
+  "title": "The RubiconRouter function maxBuyAllAmount does not transfer user's fund into its address, causing the function to always revert",
+  "issueId": 374,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/374"
+}
