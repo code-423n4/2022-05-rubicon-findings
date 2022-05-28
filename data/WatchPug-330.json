@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`BathToken.sol` A malicious early user/attacker can manipulate the vault's pricePerShare to take an unfair share of future users' deposits",
+  "issueId": 330,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/330"
+}
