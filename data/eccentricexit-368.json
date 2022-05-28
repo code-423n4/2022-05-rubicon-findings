@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "eccentricexit",
+  "address": "0x00b55eed88b14bf65b422dfa07fbc4941fc0178f",
+  "risk": "2",
+  "title": "BathHouse admin can take more tokens than user accepted",
+  "issueId": 368,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/368"
+}
