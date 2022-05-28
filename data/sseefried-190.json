@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "sseefried",
+  "address": "0xDb0940fDb54bDE3c5826480c5E571A05D1f740Ee",
+  "risk": "3",
+  "title": "When `BathToken` contract is recipient of fees then users can make disproportionate returns after whales withdraw",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/190"
+}
