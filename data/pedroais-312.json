@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Anyone can cancel orders from the router and get the tokens",
+  "issueId": 312,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/312"
+}
