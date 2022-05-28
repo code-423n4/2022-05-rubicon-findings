@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "Bahurum",
+  "address": "0x95D027b6F515827E023f7610220eEB0EA3Bf4B3c",
+  "risk": "2",
+  "title": "Filling Tokens that do not revert on transfer failure can be stolen by strategists",
+  "issueId": 311,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/311"
+}
