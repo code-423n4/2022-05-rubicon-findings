@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "Dravee",
+  "address": "0x9399b6934A797f133E452CF1523a4254629Ebf81",
+  "risk": "2",
+  "title": "Deprecated `transfer` might not work with `msg.sender`",
+  "issueId": 388,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/388"
+}
