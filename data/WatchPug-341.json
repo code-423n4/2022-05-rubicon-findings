@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`BathToken.sol#removeFilledTradeAmount()` can cause a sudden drop in price per share which leads to user's loss when they redeems their shares",
+  "issueId": 341,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/341"
+}
