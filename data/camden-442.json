@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "2",
+  "title": "No check on transferFrom return value in `_deposit` in BathToken",
+  "issueId": 442,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/442"
+}
