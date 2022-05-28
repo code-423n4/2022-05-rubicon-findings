@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "blackscale",
+  "address": "0x4315b01d0d205f3FdEDc92a89445336E21C092F4",
+  "risk": "2",
+  "title": "Multi-hop routes will leave a dust trail",
+  "issueId": 432,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/432"
+}
