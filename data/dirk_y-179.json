@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "dirk_y",
+  "address": "0x957342FeBe16d72cE462Ffc649Bfc6fAF96e2da3",
+  "risk": "2",
+  "title": "BathToken initialisation can be re-entered to set arbitrary state",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/179"
+}
