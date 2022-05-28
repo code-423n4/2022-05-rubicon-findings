@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "if strategist call rebalancePair() of BathPair with wrong values, funds will be transfer between pools by mistake, and then users of one pool can withdraw funds of other pool",
+  "issueId": 250,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/250"
+}
