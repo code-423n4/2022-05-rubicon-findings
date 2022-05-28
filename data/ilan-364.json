@@ -1,0 +1,9 @@
+{
+  "contest": 129,
+  "handle": "ilan",
+  "address": "0xEEBd02ddc406754621ff674c19f048fdF95C6D2B",
+  "risk": "2",
+  "title": "BathToken does not implement `increaseAllowance` and `decreaseAllowance`, forces usage of problematic `approve` function",
+  "issueId": 364,
+  "issueUrl": "https://github.com/code-423n4/2022-05-rubicon-findings/issues/364"
+}
