@@ -2,6 +2,8 @@
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
 
+**Contributors to this repo prior to report publication**, please review the [Agreements & Disclosures](/issues/215) issue.
+
 ---
 
 ## Contest findings are submitted to this repo
