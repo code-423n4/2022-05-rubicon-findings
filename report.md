@@ -1,3 +1,11 @@
+---
+sponsor: "Rubicon"
+slug: "2022-05-rubicon"
+date: "2022-08-01"
+title: "Rubicon contest"
+findings: "https://github.com/code-423n4/2022-05-rubicon-findings/issues"
+contest: 129
+---
 
 # Overview
 
